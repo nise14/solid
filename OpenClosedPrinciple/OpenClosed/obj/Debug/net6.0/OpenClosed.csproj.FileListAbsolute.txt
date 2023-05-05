@@ -1,0 +1,15 @@
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\bin\Debug\net6.0\OpenClosed.exe
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\bin\Debug\net6.0\OpenClosed.runtimeconfig.json
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.AssemblyReference.cache
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\refint\OpenClosed.dll
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
+C:\Repository\SOLID\OpenClosedPrinciple\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll

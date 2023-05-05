@@ -1,0 +1,15 @@
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\bin\Debug\net6.0\Liskov.exe
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\bin\Debug\net6.0\Liskov.deps.json
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\bin\Debug\net6.0\Liskov.runtimeconfig.json
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\bin\Debug\net6.0\Liskov.dll
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\bin\Debug\net6.0\Liskov.pdb
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.csproj.AssemblyReference.cache
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.AssemblyInfoInputs.cache
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.AssemblyInfo.cs
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.csproj.CoreCompileInputs.cache
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.dll
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\refint\Liskov.dll
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.pdb
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\Liskov.genruntimeconfig.cache
+C:\Repository\SOLID\LiskovSubstitutionPrinciple\Liskov\obj\Debug\net6.0\ref\Liskov.dll

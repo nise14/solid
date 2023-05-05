@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingleResponsabilityPrinciple", "SingleResponsabilityPrinciple", "{37103CAD-8425-4DE6-A3E3-8769AC24781B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsability", "SingleResponsabilityPrinciple\SingleResponsability\SingleResponsability.csproj", "{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple", "{DC1B515A-F137-4DBE-A469-F7AA14BEBD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov", "LiskovSubstitutionPrinciple\Liskov\Liskov.csproj", "{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenClosedPrinciple", "OpenClosedPrinciple", "{814B9748-C50E-4CE2-AE94-72238369E51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosedPrinciple\OpenClosed\OpenClosed.csproj", "{67FC5211-38C4-42CC-9902-FD4D7E737EAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple", "{ABAAA793-704C-4AB9-B224-227B71B3AD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "InterfaceSegregationPrinciple\Interface\Interface.csproj", "{9B2C71D4-45CD-42C0-8823-747A039A41CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple", "{3F98B58B-A88D-4A27-A6F9-C3A7FF6D7A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversionPrinciple\DependencyInversion\DependencyInversion.csproj", "{5D53C0AF-8E08-4D77-A50E-3A52C740BC84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FC5211-38C4-42CC-9902-FD4D7E737EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FC5211-38C4-42CC-9902-FD4D7E737EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FC5211-38C4-42CC-9902-FD4D7E737EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FC5211-38C4-42CC-9902-FD4D7E737EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2C71D4-45CD-42C0-8823-747A039A41CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2C71D4-45CD-42C0-8823-747A039A41CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2C71D4-45CD-42C0-8823-747A039A41CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2C71D4-45CD-42C0-8823-747A039A41CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D53C0AF-8E08-4D77-A50E-3A52C740BC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D53C0AF-8E08-4D77-A50E-3A52C740BC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D53C0AF-8E08-4D77-A50E-3A52C740BC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D53C0AF-8E08-4D77-A50E-3A52C740BC84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4072A4BC-04CA-4EA8-A473-670F4ECF9B9C} = {37103CAD-8425-4DE6-A3E3-8769AC24781B}
+		{7D46E489-1BC5-43F4-8C8C-BA0D2EE908BB} = {DC1B515A-F137-4DBE-A469-F7AA14BEBD9B}
+		{67FC5211-38C4-42CC-9902-FD4D7E737EAB} = {814B9748-C50E-4CE2-AE94-72238369E51E}
+		{9B2C71D4-45CD-42C0-8823-747A039A41CB} = {ABAAA793-704C-4AB9-B224-227B71B3AD65}
+		{5D53C0AF-8E08-4D77-A50E-3A52C740BC84} = {3F98B58B-A88D-4A27-A6F9-C3A7FF6D7A11}
+	EndGlobalSection
+EndGlobal

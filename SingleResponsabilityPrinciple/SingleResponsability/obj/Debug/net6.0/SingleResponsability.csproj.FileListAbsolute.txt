@@ -1,0 +1,15 @@
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\bin\Debug\net6.0\SingleResponsability.exe
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\bin\Debug\net6.0\SingleResponsability.deps.json
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\bin\Debug\net6.0\SingleResponsability.runtimeconfig.json
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\bin\Debug\net6.0\SingleResponsability.dll
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\bin\Debug\net6.0\SingleResponsability.pdb
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.csproj.AssemblyReference.cache
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.AssemblyInfoInputs.cache
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.AssemblyInfo.cs
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.csproj.CoreCompileInputs.cache
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.dll
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\refint\SingleResponsability.dll
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.pdb
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\SingleResponsability.genruntimeconfig.cache
+C:\Repository\SOLID\SingleResponsabilityPrinciple\SingleResponsability\obj\Debug\net6.0\ref\SingleResponsability.dll
